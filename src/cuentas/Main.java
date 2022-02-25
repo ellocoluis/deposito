@@ -1,5 +1,10 @@
 package cuentas;
-
+/**
+ * 
+ * 
+ * @author Pedro Luis
+ *
+ */
 public class Main {
 	public static void main(String[] args) {
         operativa_cuenta(null);
